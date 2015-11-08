@@ -1,8 +1,5 @@
-# pyconhk2015-adaptive-learning
-Materials for the talk on adaptive learning at PyCon HK 2015
-
-Chinese NLP with Open Source Tools in python
-============================================
+Building an Adaptive Learning System using Bayesian Modelling in Python
+=======================================================================
 This repository contains the materials used in the presentation at the PyCon HK 2015 (http://2015.pycon.hk/).
 The presentation introduces how to implement an adaptive learning system using Bayesian modelling in Python.
 

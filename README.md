@@ -10,8 +10,8 @@ Tools Introduced
 Adaptive Learning in Action
 ===========================
 Our "Learn Katakana" App makes use of Bayesian modelling to help users to learn Japanese Katakana effectively. It is freely available on both Android and iOS:
-Android: https://play.google.com/store/apps/details?id=com.axonlabs.katakana
-iOS: https://itunes.apple.com/hk/app/learn-katakana-xue-xi-pian/id1018124358?mt=8
+- Android: https://play.google.com/store/apps/details?id=com.axonlabs.katakana
+- iOS: https://itunes.apple.com/hk/app/learn-katakana-xue-xi-pian/id1018124358?mt=8
 
 References
 ==========

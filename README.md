@@ -10,3 +10,5 @@ Tools Introduced
 References
 ==========
 * Probabilistic Programming and Bayesian Methods for Hackers https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers 
+* Adaptive Learning: https://en.wikipedia.org/wiki/Adaptive_learning
+* Item Response Theory: https://en.wikipedia.org/wiki/Item_response_theory
